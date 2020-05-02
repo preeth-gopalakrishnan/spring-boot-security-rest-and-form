@@ -1,1 +1,1 @@
-# spring-boot-security-rest-and-form
+# spring security http form login with jdbc auth
